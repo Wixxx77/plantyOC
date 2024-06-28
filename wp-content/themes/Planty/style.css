@@ -414,13 +414,7 @@ input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
 /* jusque ici */
 
 
-@media (max-width: 900px){
 
-	.formulaire-3colonnes{
-		background: pink;
-	}
-
-}
 
 .menu-item-18 a{
     text-decoration: none !important;
