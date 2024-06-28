@@ -16,6 +16,7 @@ Version: 1
 /* */
 body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a:where(:not(.wp-block-button__link)), #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
     color: black;
+    
 }
 .menu-item-98 a {
     color: white !important;
